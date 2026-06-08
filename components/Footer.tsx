@@ -138,7 +138,7 @@ export default function Footer() {
           className="border-t border-gray-700 pt-8 mb-8"
         >
           <div className="max-w-2xl mx-auto text-center">
-            <h4 className="text-xl font-bold mb-2">Join the Fighter Community</h4>
+            <h4 className="text-xl font-bold mb-2">Join the Fighter Community By hamza</h4>
             <p className="text-gray-400 mb-4">
               Get exclusive offers, training tips, and product launches delivered to your inbox.
             </p>
